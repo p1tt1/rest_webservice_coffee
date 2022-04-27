@@ -32,7 +32,7 @@ An example instance be running on https://fierce-peak-42999.herokuapp.com/
 ## Automation
 
 + The GitHub-CI is used to build and test the project after a push.
-+ Actually I wanted to use the deployment of Heroku to automatically pull the new versionwen from github like in previous projects. But this seems to be temporarily not possible due to security issues: https://salesforce.stackexchange.com/questions/374037/when-i-am-trying-to-add-github-repo-to-a-heroku-app-it-throws-internal-server-e
++ Actually I wanted to use the deployment of Heroku to automatically pull the new versions from github like in previous projects. But this seems to be temporarily not possible due to security issues: https://salesforce.stackexchange.com/questions/374037/when-i-am-trying-to-add-github-repo-to-a-heroku-app-it-throws-internal-server-e
 
 ## Possible Improvements
 
