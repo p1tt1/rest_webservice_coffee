@@ -1,0 +1,8 @@
+{
+  "require": [
+    "coffeescript/register"
+  ],
+  "extension": [
+    "coffee"
+  ]
+}
