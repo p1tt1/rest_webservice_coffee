@@ -6,19 +6,6 @@ An example instance be running on https://fierce-peak-42999.herokuapp.com/
 
 ## Description of the Project
 
-## Installation
-
-    $ git clone https://github.com/p1tt1/rest_webservice_coffee.git
-    $ cd rest_webservice_coffee
-    $ npm ci
-    $ npi run build
-
-## Usage
-
-    $ npm start
-
-## Project Bescription
-
 + The goal of the project was to implement the task in a simple and elegant implementation.
 + Therefore the productive code should get along without external dependencies.
 + The server is very restrictive with the acceptance of Requests, in order to ensure a stable execution.
@@ -37,6 +24,17 @@ An example instance be running on https://fierce-peak-42999.herokuapp.com/
 ## Possible Improvements
 
 + Next, I would definitely look at the limits of the number data type.
+
+## Installation
+
+    $ git clone https://github.com/p1tt1/rest_webservice_coffee.git
+    $ cd rest_webservice_coffee
+    $ npm ci
+    $ npi run build
+
+## Usage
+
+    $ npm start
 
 ## License
 
